@@ -1,0 +1,173 @@
+:root{
+    /*primary colors*/
+    --Dark-Cyan: hsl(158,36%,37%);
+    --Cream: hsl(30,38%,92%);
+
+     /*Neautral colors*/
+     --Very-Dark-Blue: hsl(212,21%,14%);
+     --Very-Grayish-Blue: hsl(228,12%,48%);
+     --White: hsl(0,0%,100%);
+
+     /*Font Sizes*/
+     --Paragraph-Font-Size: 2rem;
+
+     /*Font Families*/
+     --Font-Montserrat: 'Montserrat', sans-serif;
+     --Font-Fraunces: 'Fraunces', serif;
+
+
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: var(--Cream);
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+
+.container{
+    padding: 2rem;
+    width: 400px;
+    margin-bottom: 0;
+  
+    
+}
+
+.perfume-image{
+    background-image:url("../images/image-product-mobile.jpg");
+    height: 200px;
+    min-width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+}
+
+.perfume{
+    font-family: var(--Font-Montserrat);
+    letter-spacing: 0.5rem;
+}
+
+
+
+.information{
+    background-color: var(--White);
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    padding-bottom: 1rem;
+    
+}
+
+p{
+    color: var(--Very-Grayish-Blue);
+}
+
+.main-info h1{
+    width: 120%;
+    font-family: var(--Font-Fraunces);
+    
+}
+
+.main-info{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+
+.prices{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+    font-family: var(--Font-Fraunces);
+}
+
+.main-price{
+    color: var(--Dark-Cyan);
+}
+
+.line-out{
+    text-decoration: line-through;
+}
+
+.add-to-cart-button{
+    background: var(--Dark-Cyan);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+button{
+    background: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.add-to-cart-button:hover{
+    background: var(--Very-Dark-Blue);
+    margin-bottom: 0;
+}
+
+
+
+
+
+
+
+/*styles for responsive on desktop*/
+@media(min-width:700px){
+    .container{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 5rem;
+  
+       
+    }
+
+    .information{
+        border-top-right-radius: 0.5rem;
+    }
+
+    .perfume-image{
+        border-top-right-radius: 0;
+        height: 100%;
+        background-image: url(../images/image-product-desktop.jpg);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
