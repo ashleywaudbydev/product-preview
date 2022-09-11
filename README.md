@@ -29,14 +29,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](Web capture_11-9-2022_132759_00awaudby.github.io.jpeg)
 
 A screen shot of the completed live project using windows web capture.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/00awaudby/product-preview/blob/master/README.md)
+- Live Site URL:(https://00awaudby.github.io/product-preview/)
 
 ## My process
 
