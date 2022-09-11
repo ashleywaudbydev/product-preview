@@ -29,7 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](Web capture_11-9-2022_132759_00awaudby.github.io.jpeg)
+![Web capture_11-9-2022_132759_00awaudby github io](https://user-images.githubusercontent.com/84845712/189527690-5d9e76cd-f164-4573-bb47-e1f7e5fa5650.jpeg)
+
 
 A screen shot of the completed live project using windows web capture.
 
