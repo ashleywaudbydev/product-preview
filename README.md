@@ -94,7 +94,8 @@ The resources i used where minimal i used previouse projects off the bootcamp i 
 ## Author
 
 
-- Frontend Mentor - [@00awaudby](https://www.frontendmentor.io/profile/00awaudby)
+- Github - [00awaudby]https://github.com/00awaudby
+- Frontend Mentor - [@00awaudby] https://www.frontendmentor.io/home
 
 
 
