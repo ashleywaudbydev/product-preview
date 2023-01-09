@@ -5,16 +5,25 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+
+- [The challenge](#the-challenge)
+
+- [Screenshot](#screenshot)
+
+- [Links](#links)
+
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+
+- [Built with](#built-with)
+
+- [What I learned](#what-i-learned)
+
+- [Continued development](#continued-development)
+
+- [Useful resources](#useful-resources)
+
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 
@@ -32,7 +41,7 @@ Users should be able to:
 ![Web capture_11-9-2022_132759_00awaudby github io](https://user-images.githubusercontent.com/84845712/189527690-5d9e76cd-f164-4573-bb47-e1f7e5fa5650.jpeg)
 
 
-A screen shot of the completed live project using windows web capture.
+
 
 ### Links
 
@@ -40,6 +49,8 @@ A screen shot of the completed live project using windows web capture.
 - Live Site URL:(https://00awaudby.github.io/product-preview/)
 
 ## My process
+
+The process goes as follows, built out using basic html, we use css to style it and make it loop presentable, along with flex box and media queries to make it responsive. Iused css variables to make adding colors to elements simplyer.
 
 ### Built with
 
@@ -100,8 +111,5 @@ The resources i used where minimal i used previouse projects off the bootcamp i 
 
 
 
-## Acknowledgments
-
-I would like to acknowledge my tutors oliver berman and leon edwards for teaching me everything i know also just thanks to front end mento for these great challenges to help with my development.
 
 
