@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/00awaudby/product-preview/blob/master/README.md)
-- Live Site URL:(https://ashleywaudbydev.github.io/product-preview/)
+- Live Site URL:[Product preview](https://ashleywaudbydev.github.io/product-preview/)
 
 ## My process
 
