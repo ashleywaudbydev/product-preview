@@ -43,7 +43,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Product preview](https://www.frontendmentor.io/solutions/product-preview-card-FHumuDZ4dz))
+- Solution URL: [Product preview](https://www.frontendmentor.io/solutions/product-preview-card-FHumuDZ4dz)
 - Live Site URL: [Product preview](https://ashleywaudbydev.github.io/product-preview/)
 
 ## My process
