@@ -41,8 +41,6 @@ Users should be able to:
 ![Web capture_11-9-2022_132759_00awaudby github io](https://user-images.githubusercontent.com/84845712/189527690-5d9e76cd-f164-4573-bb47-e1f7e5fa5650.jpeg)
 
 
-
-
 ### Links
 
 - Solution URL:(https://github.com/00awaudby/product-preview/blob/master/README.md)
@@ -95,7 +93,6 @@ css
 ### Continued development
 
 going forward i plan to do more projects like this to nail it down even furthur i also plan on working more on js and react.
-
 
 
 ### Useful resources
