@@ -46,7 +46,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/00awaudby/product-preview/blob/master/README.md)
-- Live Site URL:(https://00awaudby.github.io/product-preview/)
+- Live Site URL:(https://ashleywaudbydev.github.io/product-preview/)
 
 ## My process
 
@@ -105,7 +105,7 @@ The resources i used where minimal i used previouse projects off the bootcamp i 
 ## Author
 
 
-- Github - [00awaudby]https://github.com/00awaudby
+- Github - [ashleywaudbydev]https://github.com/ashleywaudbydev
 - Frontend Mentor - [@00awaudby] https://www.frontendmentor.io/home
 
 
